@@ -1,2 +1,4 @@
 # Mi-presentaci-n-personal
 Soy estudiante de Ingeniería en Ciencias de la Computación, tengo 18 años y me apasiona la tecnología y todo lo relacionado con el mundo digital. Me gusta aprender constantemente y desarrollar nuevas habilidades en el área de la informática. Además, disfruto mucho del deporte, ya que me ayuda a mantener un equilibrio en mi vida diaria. También me interesa la música y me gustaría en el futuro poder dedicarme o desarrollarme en ese ámbito. Me considero una persona con ganas de superarse, aprender y crecer tanto personal como profesionalmente. 
+
+Este repositorio fue creado como práctica para aprender el uso de Git y GitHub. Incluye una presentación personal y simula el trabajo en equipo mediante el uso de ramas, commits y pull requests para integrar cambios de forma organizada.
