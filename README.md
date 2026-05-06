@@ -4,3 +4,5 @@ Soy María Cajas, estudiante de Ingeniería en Ciencias de la Computación en la
 Además, disfruto del deporte, ya que me ayuda a mantener un equilibrio en mi vida diaria. También me interesa la música y me gustaría en el futuro poder desarrollarme en ese ámbito.
 
 Me considero una persona con ganas de superarse, aprender y crecer tanto personal como profesionalmente.
+
+## Aprobado por Jothanan
